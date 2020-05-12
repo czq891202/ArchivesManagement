@@ -1,0 +1,8 @@
+{
+  "name": "archives-management",
+  "version": "0.0.1",
+  "dependencies": {
+    "@abp/ng.theme.shared": "~2.6.2",
+    "archives-management.config": "^0.0.1"
+  }
+}
